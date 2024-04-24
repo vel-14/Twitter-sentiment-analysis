@@ -1,10 +1,10 @@
-#Twitter Sentiment Analysis UI
+# Twitter Sentiment Analysis UI
 
-###Overview
+### Overview
 
 This project is a user interface (UI) for analyzing sentiments in Twitter data. It uses Streamlit for creating the UI, and the machine learning model behind it is built with logistic regression using the *NLTK* library.
 
-###How it Works
+### How it Works
 
 **Streamlit UI**: The UI is built using *Streamlit*, a Python library for creating interactive web applications. Users can input keywords or hashtags they want to analyze, and the app displays sentiment analysis results.
 
@@ -20,7 +20,7 @@ This project is a user interface (UI) for analyzing sentiments in Twitter data. 
 
 **Prediction**: Once trained, the model can predict the sentiment of new Twitter data. Users input their desired keywords or hashtags, and the model predicts the sentiment based on the text associated with those keywords.
 
-##Feedback
+### Feedback
 
 If you have any feedback or suggestions, please open an issue or reach out to [your email or contact information].
 
