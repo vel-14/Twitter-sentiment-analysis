@@ -20,8 +20,4 @@ This project is a user interface (UI) for analyzing sentiments in Twitter data. 
 
 **Prediction**: Once trained, the model can predict the sentiment of new Twitter data. Users input their desired keywords or hashtags, and the model predicts the sentiment based on the text associated with those keywords.
 
-### Feedback
-
-If you have any feedback or suggestions, please open an issue or reach out to [your email or contact information].
-
 This *README* provides a high-level overview of the project, focusing on the implementation details of the sentiment analysis model. Adjustments can be made according to your project's specific requirements and preferences.
